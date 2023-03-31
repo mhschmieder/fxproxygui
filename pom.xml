@@ -6,13 +6,13 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mhschmieder</groupId>
-    <artifactId>fxproxytoolkit</artifactId>
+    <artifactId>fxproxygui</artifactId>
 	<version>0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>FxProxyToolkit</name>
-	<url>https://github.com/mhschmieder/fxproxytoolkit</url>
-	<description>Proxy Login Dialog and related handling for proxies.</description>
+	<name>FxProxyGui</name>
+	<url>https://github.com/mhschmieder/fxproxygui</url>
+	<description>Proxy Login Dialog and related GUI handling for proxies.</description>
 
 	<licenses>
 		<license>
@@ -23,9 +23,9 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/mhschmieder/fxproxytoolkit</url>
-		<connection>scm:git:git://github.com/mhschmieder/fxproxytoolkit.git</connection>
-		<developerConnection>scm:git:git@github.com:mhschmieder/fxproxytoolkit.git</developerConnection>
+		<url>https://github.com/mhschmieder/fxproxygui</url>
+		<connection>scm:git:git://github.com/mhschmieder/fxproxygui.git</connection>
+		<developerConnection>scm:git:git@github.com:mhschmieder/fxproxygui.git</developerConnection>
 	</scm>
 
 	<developers>

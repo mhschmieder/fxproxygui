@@ -1,7 +1,7 @@
 /**
  * MIT License
  *
- * Copyright (c) 2020, 2022 Mark Schmieder
+ * Copyright (c) 2020, 2023 Mark Schmieder
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -21,14 +21,14 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  *
- * This file is part of the FxCommonsToolkit Library
+ * This file is part of the FxProxyGui Library
  *
  * You should have received a copy of the MIT License along with the
- * FxCommonsToolkit Library. If not, see <https://opensource.org/licenses/MIT>.
+ * FxProxyGui Library. If not, see <https://opensource.org/licenses/MIT>.
  *
- * Project: https://github.com/mhschmieder/fxcommonstoolkit
+ * Project: https://github.com/mhschmieder/fxproxygui
  */
-package com.mhschmieder.fxproxytoolkit.dialog;
+package com.mhschmieder.fxproxygui.dialog;
 
 import java.net.PasswordAuthentication;
 
@@ -41,7 +41,6 @@ import com.mhschmieder.proxytoolkit.net.ProxyAuthenticator;
 
 import javafx.application.Platform;
 
-// TODO: Move this to a new fxproxytoolkit library.
 public final class ProxyLoginAuthenticator extends ProxyAuthenticator {
 
     public static final String PROXY_LOGIN_CONTEXT = "Proxy"; //$NON-NLS-1$

@@ -28,4 +28,8 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="src" path="/proxytoolkit"/>
+	<classpathentry kind="src" path="/commonstoolkit"/>
+	<classpathentry kind="src" path="/fxguitoolkit"/>
+	<classpathentry kind="output" path="bin"/>
 </classpath>
